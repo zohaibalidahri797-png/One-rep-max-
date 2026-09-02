@@ -1,0 +1,9 @@
+# Allow all search engine crawlers
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /*.js
+Allow: /*.css
+
+# Sitemap location
+Sitemap: https://onerepmaxcalculator.app/sitemap.xml

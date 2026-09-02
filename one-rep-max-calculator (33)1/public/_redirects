@@ -1,0 +1,9 @@
+# Cloudflare Pages Redirect Rules
+# Explicit route aliases (301 Permanent Redirect)
+/calculator/ /one-rep-max-calculator/ 301
+/calculator /one-rep-max-calculator/ 301
+/calc/ /one-rep-max-calculator/ 301
+/calc /one-rep-max-calculator/ 301
+
+# SPA fallback for Cloudflare Pages (Enables client-side routing and direct URL access)
+/* /index.html 200

@@ -1,0 +1,30 @@
+{
+  "short_name": "1RM Calc",
+  "name": "One Rep Max Calculator & Strength Analytics",
+  "description": "Scientific One Rep Max calculator featuring 7 validated formulas, 1RM-15RM table, periodized percentages, and plate loader.",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0a0b0d",
+  "theme_color": "#0a0b0d",
+  "display": "standalone",
+  "scope": "/"
+}

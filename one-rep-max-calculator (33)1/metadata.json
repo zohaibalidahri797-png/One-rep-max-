@@ -1,0 +1,6 @@
+{
+  "name": "One Rep Max Calculator",
+  "description": "Premium cinematic One Rep Max (1RM) strength calculator featuring multiple proven formulas, training percentage tables, rep max estimations, warm-up planner, and interactive barbell plate loader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
